@@ -1,3 +1,3 @@
-#load "../app/euler/euler.fs"
+#load "../app/euler/Problem1.fs"
 
-Euler.Problem1(999)
+Problem1.Solve(999)
